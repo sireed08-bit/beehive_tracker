@@ -24,3 +24,4 @@ plugins {
 }
 
 include(":app")
+rootProject.name = "apis_intel_android"
